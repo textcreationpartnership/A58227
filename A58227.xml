@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons against the taxing and prohibiting new foundations</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58227</idno>
+            <idno type="STC">Wing R477A</idno>
+            <idno type="STC">ESTC R15686</idno>
+            <idno type="EEBO-CITATION">12652333</idno>
+            <idno type="OCLC">ocm 12652333</idno>
+            <idno type="VID">65295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 775:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons against the taxing and prohibiting new foundations</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) ;  36 x 50 cm. </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>House construction --  Taxation --  England.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:65295:1"/>
+            <list>
+               <head>REASONS Againſt the Taxing and Prohibiting New Foundations.</head>
+               <item>
+                  <hi>Firſt,</hi> A Years Tax on New Buildings will be very burthenſome and grievous to the ruine of many Families; for they which Live on thoſe Rents will have nothing to maintain them that Year, and muſt ſtarve if they cannot borrow, which will be very difficult for thoſe that have only Eſtates for Lives; beſides the trouble of getting the Money to pay the other Aſſeſsments already laid on ſuch Houſes. Now, It has been the uſual method of <hi>Parliaments,</hi> to make their Taxes eaſy, and to take that part of every Man's Eſtate towards the Support of the Government, which he could ſpare; not that which is all their maintainance.</item>
+               <item>
+                  <p>II. Therefore if ſuch a Tax ſhould be laid, it muſt be accounted a Fine, and the Buildings an offence; which muſt be either an offence againſt a Law already made, or elſe ſuch an offence that there ought to be a Law made againſt it.</p>
+                  <p>If the New Buildings are an offence againſt a Law already made, That Law hath declared the puniſhment, and the Builders ought not to be puniſhed any other way, ſince they are willing to abide the Tryal and puniſhment of that Law; eſpecially at this time when they hope they are delivered from <hi>Judges</hi> and <hi>Lawyers</hi> that would ſtrain and wreſt the words of a <hi>Statute</hi> quite contrary to the genuine Sence and plain meaning of it.</p>
+                  <p>But ſuppoſe the Builders had offended againſt the Law made againſt Cottages, That Law was made for all <hi>England;</hi> why therefore ſhould thoſe that have Built within the <hi>Bill of Mortality,</hi> be Fined and forced to commute their puniſhment, more than thoſe that have Built at <hi>Briſtol,</hi> and other Towns which have greatly increaſed, if not in equal proportion: Or in other places in the Country who are probably more within the Words of the <hi>Statute,</hi> and not ſaved by the exceptions?</p>
+               </item>
+               <item>III. If New Buildings are ſuch an offence, that there ought to be a Law made againſt it, (there being no Law already againſt them, as the Lord Chancellour <hi>Nottingham</hi> declared in his Speech to the <hi>Parliament;</hi>) then the Builders ought not to be puniſhed for an offence committed before the Law made.</item>
+               <item>IV. Such a Tax would be very partial and unequal; For it will fall upon a great many that never committed the ſuppoſed offence of Building; Such as have purchaſed and have given the full value of the Improvement; and therefore will think it very unreaſonable they ſhould pay a Years purchaſe more; beſides, many of them are <hi>Orphans</hi> and <hi>Widdows,</hi> and unable it being their whole maintenance, and there may ſeem as much reaſon that thoſe have lent Money upon the New Building ſhould be Taxed, as thoſe that have purchaſed, and ſomewhat greater; for were it not for their Money, the Houſes had not been Built.</item>
+               <item>
+                  <p>V. Such a Tax will produce very little Money; For the Revenue of all the Ground Rents that have been Built upon ſince 1660, taking in the great Houſes that been altered and Built into Tenements, do not amount to much more than <hi>Twenty one Thouſand</hi> Pounds <hi>per Annum,</hi> as may appear by this particular.</p>
+                  <p>
+                     <table>
+                        <head>An Eſtimate of the Ground-Rents ſince 1660.</head>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">l.</cell>
+                           <cell role="label">s.</cell>
+                           <cell role="label">d.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>ESſsex</hi> Buildings,</cell>
+                           <cell>1100</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Norfolke</hi> Buildings,</cell>
+                           <cell>1200</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Salisbury</hi> Buildings,</cell>
+                           <cell>0300</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Beauford</hi> Buildings,</cell>
+                           <cell>1100</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>York</hi> Buildings,</cell>
+                           <cell>1500</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hungerford</hi>-Market,</cell>
+                           <cell>0400</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Downings</hi> Buildings,</cell>
+                           <cell>0300</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Albemarle</hi> and <hi>Arlington-ſtreet,</hi>
+                           </cell>
+                           <cell>1000</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>St. <hi>James</hi>'s-<hi>ſquare</hi> and <hi>Streets</hi> adjoyning, </cell>
+                           <cell>1200</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>Some Ground-Rent in St. <hi>Giles,</hi>
+                           </cell>
+                           <cell>0350</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Leceiſter-Fields</hi> and <hi>Streets</hi> adjoining,</cell>
+                           <cell>0600</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>So-Ho-Square</hi> and the <hi>Street</hi> adjoining,</cell>
+                           <cell>1300</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Exceter</hi> Buildings,</cell>
+                           <cell>0600</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Southampton-Square</hi> and the <hi>Streets</hi> adjoining,</cell>
+                           <cell>1500</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Red-Lion-Fields,</hi>
+                           </cell>
+                           <cell>1100</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Brownlowe-Street,</hi>
+                           </cell>
+                           <cell>0150</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Brooke</hi> Buildings,</cell>
+                           <cell>0650</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hatton-Garden,</hi>
+                           </cell>
+                           <cell>0600</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Suffolk-Street,</hi>
+                           </cell>
+                           <cell>0250</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Newport</hi>-Ground,</cell>
+                           <cell>0900</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Rupert</hi> and <hi>Gerrard-ſtreet,</hi>
+                           </cell>
+                           <cell>0600</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>As for the Ground-Rents about <hi>Wapping, White-Chappel, Southwark,</hi> and that End of the Town, tho' there are a great many Houſes, yet do not amount to a fourth part of the value of the <hi>Weſt</hi>-end of the Town, tho' it be a<g ref="char:EOLhyphen"/>greed that the Town hath equally increaſed at both ends.—</cell>
+                           <cell>4500</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell role="total">in all</cell>
+                           <cell role="total">21200</cell>
+                           <cell role="total">00</cell>
+                           <cell role="total">00</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Now the Houſes of <hi>Eſſex</hi>-Buildings, <hi>Norfolk</hi>-Buildings, <hi>York</hi>-Buildings, <hi>Beauford</hi>-Buildings, <hi>Exeter, Salisbury, Hungerford</hi>-Buildings, <hi>&amp;c.</hi> do amount in the Account, to above <hi>Six thouſand</hi> Pound <hi>per Annum:</hi> Now, if all theſe Houſes ought to be excepted out of the Tax, yet ſo much Ground of them as was Built before, ought to be excepted, or at leaſt, as many Houſes as was Built before: As all thoſe fronting the <hi>Strand,</hi> belonging to <hi>Eſſex, Norfolk, York, Beauford, Exeter, Salisbury,</hi> &amp;c. ſo that taking the whole Account, with theſe juſt Exceptions, the Ground-Rents will not amount to much more than <hi>Fifteen thouſand</hi> Pound <hi>per Annum,</hi> and allowing three parts more for the Improv'd-Rents, the Total will amount to <hi>Threeſcore thouſand</hi> Pounds of Ground-Rent and Improv'd-Rent; which when the Loſs and Charge in Collecting is deducted, will produce but a little Sum in the <hi>Exchequer.</hi>
+                  </p>
+               </item>
+               <item>VI. Such a Tax will be very tedious, chargeable, and uncertain in the Collecting: Many Houſes are empty, unfiniſhed, mortgaged for more than they are worth, and the Owners poor. From the ſmaller Houſes the Tenants will remove, for they are not able to raiſe a years Tax. Several Houſes have Settlements and Remainders upon them, which will require time to proportion what the ſeveral Intereſts ſhall pay; ſo that ſuch a Tax may create ſeveral Offices, which may be beneficial to ſeveral private Perſons, but will avail little to the Publick, as will appear, if the Accounts of the Exchequer be Examined, about the ſame Tax raiſed in <hi>Olivers</hi> Days; It was a Years Tax upon Houſes, which were as numerous as the Houſes built ſince 1660, yet the whole Account that was brought in the Exchequer, was but <hi>Twenty ſeven thouſand</hi> odd <hi>Hundred</hi> Pounds. It was Four years in Collecting, and <hi>Seven thouſand</hi> Pound was allowed for the Charge, which was above a fourth part of the Money.</item>
+            </list>
+            <list>
+               <head>Reaſons againſt Stopping of New Buildings.</head>
+               <item>
+                  <hi>Firſt,</hi> TO ſtop Buildings in and about the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> will take away the Livelihood of ſeveral Thouſands of Families. Who after they have ſerved ſeven years Apprentiſhip, to learn their Callings, will think it very ſevere, that they ſhould not have Liberty to uſe their Trades, as well as other Traders, that do not belong to Building.</item>
+               <item>II. There are but three-ways, by which the generality of all Traders are employed; <hi>In providing Food, Clothing, and Lodging for Mankind.</hi> So that to prohibit Building, is to ſtop one of the three great ways by which the People that have no Land are fed; which may prove of ill Conſe<g ref="char:EOLhyphen"/>quence to the Government: It being contrary to the common reputed Intereſt of the Nation, which is to encourage all lawful ways whereby the People might get their Livings.</item>
+               <item>III. Stopping of Building will leſſen the Value of Rents in the Country; for theſe many Families wanting Employ, cannot conſume ſo much in Eating and Cloathing, which is the Product of the Country; for according to the Conſumption of the Growth of the Country, is the Value of the Land: And it is much better for the Country, that theſe Families, which belong to Building, are Fed and Cloathed in <hi>London,</hi> than in the Country; for they pay for the Carriage of the Goods to <hi>London,</hi> by which, another Party of Men and Horſes are maintained, which help to conſume the Product of the Country; and the Builders eat as much, where they now live, and wear out more Cloathes.</item>
+               <item>
+                  <hi>Laſtly.</hi> The Builders are in all Nations in the world Incouraged. The States of <hi>Holland</hi> have riſen to their Greatneſs, chiefly by Incou<g ref="char:EOLhyphen"/>raging the Builders to Inlarge their Cities: Therefore it were convenient that thoſe that think it neceſſary to prevent the growth of the City and Buildings, might publiſh ſome Reaſons to ſhew how the Intereſt of this Nation differs from all the reſt of Europe, which perhaps might qulet a little the minds of thoſe many Families that are to loſe their livelyhoods; when they are convinced that it is for the good of their Country, that they ſhould be ruin'd; <hi>For thoſe Reaſons that the Serjeant uſeth,</hi> doth not ſatisfy them.
+<list>
+                     <item>Firſt. <hi>That the Air is Stagnalized by the New Building, and the Health of their Majeſties Subjects indangered;</hi> For, the Builders by making Large Streets, Squares and Piazzas, and their making Water-Courſes and Dreins under ground, have contributed much to the Health of the Place, having changed many noiſom Lay-ſtals into wholſom Streets; and <hi>London</hi> is now as healthy as any Metropolis in the World.</item>
+                     <item>II. <hi>The Confining of the Air of His Majeſties Pallace.</hi> This was not thought a Reaſon by former Parliaments to Stop Building; for the Parliament in the <hi>17th.</hi> of King <hi>Charles</hi> the Firſt, did Petition to the King as a Grievance, that the Subject was hindred from Building upon his Free-hold; for at that time ſome houſes in the <hi>Strand,</hi> for Building without a Licenſe, were pull'd down upon ſuch pretence.</item>
+                     <item>III. By the Common Law, Buildings are ſo far from being reckoned a <hi>Common Nuſance,</hi> that the Law takes care to preſerve them; for it is waſt, and a forfeiture of the Eſtate to demoliſh a Houſe.</item>
+                     <item>IV. If <hi>New Buildings do much Inhance the Price of Victuals</hi> (as the <hi>Serjeant</hi> ſuggeſts,) It is for the advantage of the Country, they having a better price for their Corn and Cattle; and therefore is a contradiction to his other Argument, <hi>That the New Buildings are the occaſion of the fall of the Rent of the Lands in the Country.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
